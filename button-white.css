@@ -1,0 +1,12 @@
+a {
+  color: white
+  border-width: 3px;
+}
+
+a {
+	border-color: black
+}
+
+a {
+	border-style: solid;
+}

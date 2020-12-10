@@ -1,0 +1,23 @@
+.banner  {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(230,230,230,0.2) 50%)  ,url(../../images/image-cuisine.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white
+}
+.banner {
+	padding: 60px 0px
+}
+.banner {
+	margin: 0px
+}
+
+.banner {
+	margin-bottom: 4px
+}
+
+.banner h1 {
+	font-size: 50px
+}
+.banner {
+	background-position: center;
+}
